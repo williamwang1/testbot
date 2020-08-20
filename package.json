@@ -1,0 +1,29 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test telegram bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "now",
+    "start" : "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamwang1/testbot.git"
+  },
+  "keywords": [
+    "telegram",
+    "chatbot"
+  ],
+  "author": "william",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/williamwang1/testbot/issues"
+  },
+  "homepage": "https://github.com/williamwang1/testbot#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
